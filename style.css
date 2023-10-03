@@ -1,0 +1,98 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+
+}
+
+  a{
+  text-decoration: none;
+    color: white;
+    margin-left: 40px;
+ }
+
+  #nav {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    padding: 0px;
+    padding-left: 650px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    justify-content: space-around;
+    width: 100%;
+    height: 18px;
+  }
+  #donate{
+    border: 1px solid rgb(248,221,104);
+    background-color: rgb(248,221,104)
+  }
+  #middle{
+    background-image: ;
+    color: white;
+  }
+  #lion{
+    width: 100%;
+  }
+  #imgpanda{
+    width: 25%;
+    margin-left: 40%;
+    background-color: white;
+  }
+  #panda{
+    background-color: white;
+  }
+  #rapa{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 30px;
+  }
+  #king{
+    margin-left: 45%;
+    font-size: 20px;
+  }
+  #bottom{
+    background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/black-background.png);
+    background-size: 100% 100%;
+    width: 100%;
+    min-height: 100%;
+    padding: 3% 0%;
+   
+  }
+  h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color:white;
+    margin-left: 45%;
+    margin-top: 75px;
+  }
+  #btmtext{
+    color: white;
+    margin-left: 10%;
+    margin-top: 25px;
+    font-size: 20px;
+    word-spacing: 2px;
+
+  }
+ 
+  #you{
+    color: white;
+    padding-left: 30%;
+    padding-top: 30px;
+    font-size: 20px;
+    padding-bottom: 150px;
+    width: 100%;
+    border-bottom: 1px solid rgb(139,134,134);
+  word-spacing: 2px;
+ 
+  }
+  
+  p{
+    font-size: 25px;
+  padding: 0% 20%;
+  }
+  #made{
+    margin-left: 20%;
+    color: white;
+    padding-top: 50px;
+  }
